@@ -1,0 +1,24 @@
+{
+  "shopping": [
+    {
+      "id": "797948e2-c90b-4528-a00c-225e7bde2b77",
+      "name": "kola",
+      "type": "[SHOPPING] Add Item"
+    },
+    {
+      "id": "78c7e03a-3885-4ddc-8c27-4a3438ac1e5c",
+      "name": "dr Pepper",
+      "type": "[SHOPPING] Add Item"
+    },
+    {
+      "id": "f757e0a9-0578-4e81-a967-24deff88f726",
+      "name": "lemon",
+      "type": "[SHOPPING] Add Item"
+    },
+    {
+      "id": "3d51b583-cb00-4019-93ad-0fd25ff20e1d",
+      "name": "dr Pepper",
+      "type": "[SHOPPING] Add Item"
+    }
+  ]
+}
