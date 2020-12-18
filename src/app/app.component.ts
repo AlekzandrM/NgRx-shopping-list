@@ -7,8 +7,8 @@ import { AppState } from './store/models/app-state.model';
 import { ShoppingItem } from './store/models/shopping-item.model';
 import { AddItemAction, RemoveItemAction, LoadShoppingAction } from './store/actions/shopping.actions';
 
-// ****************** Для запуска локального сервера json
-// json-server db.json
+// ****************** Для запуска локального сервера json ************************
+// запустить в терминале: json-server db.json
 
 @Component({
   selector: 'app-root',

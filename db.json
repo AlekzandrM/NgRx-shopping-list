@@ -1,13 +1,18 @@
 {
   "shopping": [
     {
-      "id": "9e02ced0-932b-4b07-8f8c-101d586654e5",
+      "id": "fec395f7-3031-4634-a95b-6d8bdb22f179",
+      "name": "Fanta",
+      "type": "[SHOPPING] Add Item"
+    },
+    {
+      "id": "be450b50-df54-4eeb-bee9-b0bc5c4dd2c7",
       "name": "dr Pepper",
       "type": "[SHOPPING] Add Item"
     },
     {
-      "id": "c07f2a22-95cf-418d-b66c-9cc53c888320",
-      "name": "lemon",
+      "id": "ed5d40b6-a843-45ef-97ea-f699cdb01027",
+      "name": "cola",
       "type": "[SHOPPING] Add Item"
     }
   ]
