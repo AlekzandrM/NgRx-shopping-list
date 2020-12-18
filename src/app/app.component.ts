@@ -19,8 +19,8 @@ export class AppComponent implements OnInit {
 
   shoppingItems: Observable<ShoppingItem[]>;
   loading$: Observable<Boolean>;
-  error$: Observable<Error>
-  newShoppingItem: ShoppingItem = { id: '', name: '' }
+  error$: Observable<Error>;
+  newShoppingItem: ShoppingItem = { id: '', name: '' };
 
   constructor(private store: Store<AppState>) { }
 
